@@ -1,0 +1,22 @@
+{
+    "HP": "hp_fixed",
+    "HP%": "hp_per",
+    "攻撃力": "atk_fixed",
+    "攻撃力%": "atk_per",
+    "防御力": "def_fixed",
+    "防御力%": "def_per",
+    "元素熟知": "elemental_mastery",
+    "会心率": "crit_rate",
+    "会心ダメージ": "crit_dmg",
+    "与える治療効果": "healing_bonus",
+    "元素チャージ効率": "energy_recharge",
+    "シールド強化": "shield_strength",
+    "炎元素ダメージ": "pyro_dmg_bonus",
+    "水元素ダメージ": "hydro_dmg_bonus",
+    "氷元素ダメージ": "cryo_dmg_bonus",
+    "雷元素ダメージ": "electro_dmg_bonus",
+    "草元素ダメージ": "dendro_dmg_bonus",
+    "岩元素ダメージ": "geo_dmg_bonus",
+    "風元素ダメージ": "anemo_dmg_bonus",
+    "物理ダメージ": "physical_dmg_bonus"
+}
