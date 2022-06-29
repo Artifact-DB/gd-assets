@@ -50,11 +50,11 @@
 	"Zhongli": "Zhongli",
 	"HuTao": "Hu Tao",
 	"Kazuha": "Kaedehara Kazuha",
-	"Traveler(pyro)": "travelerpyro",
-	"Traveler(cryo)": "travelercryo",
-	"Traveler(hydro)": "travelerhydro",
-	"Traveler(electro)": "travelerelectro",
-	"Traveler(geo)": "travelergeo",
-	"Traveler(anemo)": "traveleranemo",
-	"Traveler(dedro)": "travelerdedro"
+	"Traveler(Pyro)": "travelerpyro",
+	"Traveler(Cryo)": "travelercryo",
+	"Traveler(Hydro)": "travelerhydro",
+	"Traveler(Electro)": "travelerelectro",
+	"Traveler(Geo)": "travelergeo",
+	"Traveler(Anemo)": "traveleranemo",
+	"Traveler(Dendro)": "travelerdendro"
 }
